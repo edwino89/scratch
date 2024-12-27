@@ -18,6 +18,7 @@ Too Cheap to Pay for Evernote
 1. How to Build Recursive React Component [Link](https://www.youtube.com/watch?v=6UU2Ey4KZr8)
 1. Getting Started with OAuth2 in Go [Link](https://medium.com/@pliutau/getting-started-with-oauth2-in-go-2c9fae55d187)
 1. Go Embed sub.FS Folder [Link](https://clavinjune.dev/en/blogs/serving-embedded-static-file-inside-subdirectory-using-go/)
+2. React Native Cheat Sheet [Link](https://cheatography.com/bochrak/cheat-sheets/react-native/)
 
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
