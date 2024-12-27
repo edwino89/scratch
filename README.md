@@ -15,6 +15,8 @@ Too Cheap to Pay for Evernote
 1. Design Patterns in react [Link](https://www.youtube.com/watch?v=MdvzlDIdQ0o)
 1. Using React with Golang [Link](https://www.youtube.com/watch?v=Y7kuW1qyDng)
 1. How to Build Recursive React Component [Link](https://www.youtube.com/watch?v=6UU2Ey4KZr8)
+1. Getting Started with OAuth2 in Go [Link](https://medium.com/@pliutau/getting-started-with-oauth2-in-go-2c9fae55d187)
+1. Go Embed sub.FS Folder [Link](https://clavinjune.dev/en/blogs/serving-embedded-static-file-inside-subdirectory-using-go/)
 
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
