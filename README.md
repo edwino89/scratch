@@ -51,3 +51,52 @@ Too Cheap to Pay for Evernote
 |complex: can use htmx|complex: can use sqlite|
 |abstractions: ui libraries; shadcn, gluestack|abstractions: orms gorm, sql alchemy|
 
+## DB Schema for a Chat App
+```
+-- db schema for chat app
+create table users(
+id 
+username
+email
+password_hash
+created_at)
+
+create table channels(
+id
+name
+description
+channel type
+channel status open, closed, stale...
+created at)
+
+create table messages(
+id 
+user_id
+channel_id 
+content text
+created at
+is_direct_message)
+
+create table channel_memberships(
+id 
+user_id
+channel_id
+joined_at) depends on channel type can use exists???
+
+create table direct_messages(
+id primary key
+sender id
+receiver id
+content
+created at)
+
+
+dm/aggregate_id
+
+channel
+channel type
+channel members
+have a condition on channel creation
+
+```
+
