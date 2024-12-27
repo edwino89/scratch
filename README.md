@@ -23,7 +23,10 @@ Too Cheap to Pay for Evernote
 
 ## React Native Sites
 1. BeatGig [Link](https://beatgig.com/)
-1. 
+1. Twitter [Link](https://x.com/)
+1. BlueSky [Link](https://bsky.app/)
+1. FlipKart [Link](https://www.flipkart.com/)  
+1. Evan Bacon [Link](https://evanbacon.dev/)  
 
 ## Expo Universal Ideas
 1. Tables
@@ -37,6 +40,7 @@ Too Cheap to Pay for Evernote
 |---|---|
 |declarative UI|declarative data storage|
 |quirky edge cases eg optimize renders aka hooks|quirky edge cases eg optimize queries|
+|react patterns|postgres patterns|
 |ds;: typeScript/javascript/jsx|dsl: sql/plpgsql/c|
 |rich framework/plugin ecosystem|rich forks/plugin ecosystem|
 |vercel|supabase|
