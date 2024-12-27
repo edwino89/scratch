@@ -1,7 +1,7 @@
 # scratch
 Too Cheap to Pay for Evernote
 
-## Bvrgeon Tech
+## Bvrgeon Tech - 271224
 1. Stack: React Native/Expo, Golang/Python, Postgres
 2. Storage: postgres, s3 like object storage, local first storage...
 3. Notifications: email, websockets
