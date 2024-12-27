@@ -26,6 +26,7 @@ Too Cheap to Pay for Evernote
 1. React Native for Web [Link](https://necolas.github.io/react-native-web/docs/)
 1. Universal Apps [Link](https://www.youtube.com/watch?v=VSZEfQx-byg&list=PLXXnezSEtvNPlwbFvG3NzJAW5ikYsG2Lh)
 1. GlueStack UI [Link](https://gluestack.io/ui/docs/apps/dashboard-app)
+2. Shuffle.Dev [Link](https://shuffle.dev/components/bootstrap/all/alert)
 
 ## React Native Sites
 1. BeatGig [Link](https://beatgig.com/)
