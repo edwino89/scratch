@@ -19,7 +19,8 @@ Too Cheap to Pay for Evernote
 1. Getting Started with OAuth2 in Go [Link](https://medium.com/@pliutau/getting-started-with-oauth2-in-go-2c9fae55d187)
 1. Go Embed sub.FS Folder [Link](https://clavinjune.dev/en/blogs/serving-embedded-static-file-inside-subdirectory-using-go/)
 2. React Native Cheat Sheet [Link](https://cheatography.com/bochrak/cheat-sheets/react-native/)
-
+1. Math Latex [Link](https://www.npmjs.com/package/mathlive)
+   
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
 1. React Native for Web [Link](https://necolas.github.io/react-native-web/docs/)
