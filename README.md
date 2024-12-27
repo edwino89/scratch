@@ -11,6 +11,7 @@ Too Cheap to Pay for Evernote
 
 ## Ideas
 1. React Hooks, Stale While Revalidate [Link](https://dev.to/aviaryan/a-guide-to-stale-while-revalidate-data-fetching-with-react-hooks-15do)
+2. Add Retries to HTTP Requests [Link](https://dev.to/bearer/add-retries-to-http-requests-377n)
 1. Payment Gateways in Kenya [Link](https://josephmatino.com/best-payment-gateways-in-kenya/)
 1. Design Patterns in react [Link](https://www.youtube.com/watch?v=MdvzlDIdQ0o)
 1. Using React with Golang [Link](https://www.youtube.com/watch?v=Y7kuW1qyDng)
