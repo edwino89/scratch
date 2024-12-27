@@ -33,6 +33,12 @@ Too Cheap to Pay for Evernote
 5. Notifications
 
 ## React ~ Postgres
-|React Native|Postgres|
+|React/React Native|Postgres|
 |---|---|
-|Declarative|Declarative|
+|declarative UI|declarative data storage|
+|quirky edge cases eg optimize renders aka hooks|quirky edge cases eg optimize queries|
+|ds;: typeScript/javascript/jsx|dsl: sql/plpgsql/c|
+|rich framework/plugin ecosystem|rich forks/plugin ecosystem|
+|vercel|supabase|
+|complex can use htmx|complex can use sqlite|
+
