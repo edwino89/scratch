@@ -41,6 +41,11 @@ Too Cheap to Pay for Evernote
 4. Media Queries
 5. Notifications/Toast Messages
 
+## React Native/Expo Component Patterns
+1. Single Responsibility Components
+2. Compound Components ie children props, context eg Aside & Main, Form Elements, Tables... etc
+3. Custom Hooks eg useWindowDimention, useFetch, onLayout for views, Media Queries, # of Columns... etc
+
 ## React vs Postgres
 |React/React Native|Postgres|
 |---|---|
