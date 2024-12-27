@@ -33,16 +33,18 @@ Too Cheap to Pay for Evernote
 2. Drop Downs using Modals
 3. Forms
 4. Media Queries
-5. Notifications
+5. Notifications/Toast Messages
 
-## React ~ Postgres
+## React vs Postgres
 |React/React Native|Postgres|
 |---|---|
 |declarative UI|declarative data storage|
 |quirky edge cases eg optimize renders aka hooks|quirky edge cases eg optimize queries|
-|react patterns|postgres patterns|
-|ds;: typeScript/javascript/jsx|dsl: sql/plpgsql/c|
+|zustand, react query cache|redis, memecache cache|
+|react patterns - compound components, props, caching|postgres patterns - transactions, recursive queries, caching|
+|dsl: typeScript/javascript/jsx|dsl: sql/plpgsql/c|
 |rich framework/plugin ecosystem|rich forks/plugin ecosystem|
 |vercel|supabase|
-|complex can use htmx|complex can use sqlite|
+|complex: can use htmx|complex: can use sqlite|
+|abstractions: ui libraries; shadcn, gluestack|abstractions: orms gorm, sql alchemy|
 
