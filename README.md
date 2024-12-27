@@ -43,8 +43,9 @@ Too Cheap to Pay for Evernote
 
 ## React Native/Expo Component Patterns
 1. Single Responsibility Components
-2. Compound Components ie children props, context eg Aside & Main, Form Elements, Tables... etc
+2. Compound Components ie children props, context eg Aside & Main, Form Elements, Tables, Toast Messages... etc
 3. Custom Hooks eg useWindowDimention, useFetch, onLayout for views, Media Queries, # of Columns... etc
+4. Layout Components, Pass Prop, Error State & Loading State
 
 ## React vs Postgres
 |React/React Native|Postgres|
