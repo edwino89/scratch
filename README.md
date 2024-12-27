@@ -14,6 +14,7 @@ Too Cheap to Pay for Evernote
 1. Payment Gateways in Kenya [Link](https://josephmatino.com/best-payment-gateways-in-kenya/)
 1. Design Patterns in react [Link](https://www.youtube.com/watch?v=MdvzlDIdQ0o)
 1. Using React with Golang [Link](https://www.youtube.com/watch?v=Y7kuW1qyDng)
+1. How to Build Recursive React Component [Link](https://www.youtube.com/watch?v=6UU2Ey4KZr8)
 
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
