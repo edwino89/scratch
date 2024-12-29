@@ -1,4 +1,4 @@
-# scratch
+0# scratch
 Too Cheap to Pay for Evernote
 
 ## Bvrgeon Tech - 271224
@@ -43,6 +43,9 @@ Too Cheap to Pay for Evernote
 3. Forms
 4. Media Queries
 5. Notifications/Toast Messages
+
+## ML
+1. ML [Link](https://ml-resources.vercel.app/)
 
 ## React Native/Expo Component Patterns
 1. Single Responsibility Components
