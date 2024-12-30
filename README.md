@@ -1,4 +1,4 @@
-0# scratch
+# scratch
 Too Cheap to Pay for Evernote
 
 ## Bvrgeon Tech - 271224
@@ -8,6 +8,12 @@ Too Cheap to Pay for Evernote
 4. Auth: email/password, OAuth: Google, Apple
 5. Payments: stripe, paystack, pesapal
 6. Deployment: vps, docker swarm, github actions ci/cd
+
+## Business Tools
+1. Google Africa Accelerator [Link](https://startup.google.com/programs/accelerator/africa/)
+2. Moodle LMS [Link](https://moodle.org/)
+3. Tunga [Link](https://tunga.io/for-developers/)
+4. Designing a Landing Page [Link](https://www.youtube.com/watch?v=cJ10BYWNPns)
 
 ## Ideas
 1. React Hooks, Stale While Revalidate [Link](https://dev.to/aviaryan/a-guide-to-stale-while-revalidate-data-fetching-with-react-hooks-15do)
@@ -23,6 +29,11 @@ Too Cheap to Pay for Evernote
 2. React Native Cheat Sheet [Link](https://cheatography.com/bochrak/cheat-sheets/react-native/)
 1. Math Latex [Link](https://www.npmjs.com/package/mathlive)
 2. Visualize LLM [Link](https://bbycroft.net/llm)
+1. Probability and Statistics Course [Link](https://www.probabilitycourse.com/courses.php)
+2. AI Movies [Link](https://watch.runwayml.com/)
+3. Golang React WebRTC [Link](https://www.youtube.com/watch?v=JTIm3ChI-6w&list=PLT-AS3Wcy-pndmzVGbgHLKjEXSzQLdgFM&index=2)
+4. LiveStream Project [Link](https://www.youtube.com/watch?v=qenAQwLvZfA&list=PLkqiWyX-_LotUQHQXzeVD6Ogtcok7lObw&index=19)
+
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
 1. React Native for Web [Link](https://necolas.github.io/react-native-web/docs/)
@@ -46,6 +57,22 @@ Too Cheap to Pay for Evernote
 
 ## ML
 1. ML [Link](https://ml-resources.vercel.app/)
+2. Music Recommender App [Link](https://www.youtube.com/watch?v=gaZKjAKfe0s)
+3. Machine Learning Lib From Scratch [Link](https://github.com/duongttr/mllib-from-scratch?tab=readme-ov-file)
+
+## Postgres
+1. Modeling HIerarchical Tree Data [Link](https://leonardqmarcq.com/posts/modeling-hierarchical-tree-data)
+2. Scaling Postgres Zerodah [Link](https://zerodha.tech/blog/working-with-postgresql/)
+3. Replicating Postgres [Link](https://www.enterprisedb.com/postgres-tutorials/postgresql-replication-and-automatic-failover-tutorial)
+4. State Machine in Postgres [Link](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
+5. Use your database as a state machine [Link](https://blog.lawrencejones.dev/state-machines/)
+
+## Golang
+1. 100 Golang Mistakes [Link](https://100go.co/)
+2. PGX WalkThrough [Link](https://www.youtube.com/watch?v=sXMSWhcHCf8)
+
+## Python
+1. Python Fire CLI [Link](https://github.com/google/python-fire/blob/master/docs/guide.md)
 
 ## React Native/Expo Component Patterns
 1. Single Responsibility Components
