@@ -33,6 +33,7 @@ Too Cheap to Pay for Evernote
 2. AI Movies [Link](https://watch.runwayml.com/)
 3. Golang React WebRTC [Link](https://www.youtube.com/watch?v=JTIm3ChI-6w&list=PLT-AS3Wcy-pndmzVGbgHLKjEXSzQLdgFM&index=2)
 4. LiveStream Project [Link](https://www.youtube.com/watch?v=qenAQwLvZfA&list=PLkqiWyX-_LotUQHQXzeVD6Ogtcok7lObw&index=19)
+5. 25 React Projects [Link](https://www.youtube.com/watch?v=5ZdHfJVAY-s)
 
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
