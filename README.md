@@ -82,6 +82,10 @@ Too Cheap to Pay for Evernote
 2. Compound Components ie children props, context eg Aside & Main, Form Elements, Tables, Toast Messages... etc
 3. Custom Hooks eg useWindowDimention, useFetch, onLayout for views, Media Queries, # of Columns... etc
 4. Layout Components, Pass Prop, Error State & Loading State
+5. 
+
+## HTMX
+1. Server Side Rendered [Link](https://www.wimdeblauwe.com/blog/2024/12/31/problems-i-no-longer-have-by-using-server-side-rendering/)
 
 ## React vs Postgres
 |React/React Native|Postgres|
