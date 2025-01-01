@@ -62,6 +62,7 @@ Too Cheap to Pay for Evernote
 1. ML [Link](https://ml-resources.vercel.app/)
 2. Music Recommender App [Link](https://www.youtube.com/watch?v=gaZKjAKfe0s)
 3. Machine Learning Lib From Scratch [Link](https://github.com/duongttr/mllib-from-scratch?tab=readme-ov-file)
+4. The Bitter Lesson [Link](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 ## Postgres
 1. Modeling HIerarchical Tree Data [Link](https://leonardqmarcq.com/posts/modeling-hierarchical-tree-data)
