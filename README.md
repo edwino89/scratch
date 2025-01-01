@@ -35,6 +35,7 @@ Too Cheap to Pay for Evernote
 4. LiveStream Project [Link](https://www.youtube.com/watch?v=qenAQwLvZfA&list=PLkqiWyX-_LotUQHQXzeVD6Ogtcok7lObw&index=19)
 5. 25 React Projects [Link](https://www.youtube.com/watch?v=5ZdHfJVAY-s)
 6. Research Papers [Link](https://sci-hub.ru/)
+7. Tutorials [Link](https://rutracker.org/forum/viewforum.php?f=1565&start=2400)
 
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
