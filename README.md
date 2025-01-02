@@ -16,6 +16,7 @@ Too Cheap to Pay for Evernote
 4. Designing a Landing Page [Link](https://www.youtube.com/watch?v=cJ10BYWNPns)
 
 ## Ideas
+1. How to Write Software [Link](https://grantslatton.com/how-to-software)
 1. React Hooks, Stale While Revalidate [Link](https://dev.to/aviaryan/a-guide-to-stale-while-revalidate-data-fetching-with-react-hooks-15do)
 2. Add Retries to HTTP Requests [Link](https://dev.to/bearer/add-retries-to-http-requests-377n)
 1. Payment Gateways in Kenya [Link](https://josephmatino.com/best-payment-gateways-in-kenya/)
