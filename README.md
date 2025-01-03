@@ -37,6 +37,7 @@ Too Cheap to Pay for Evernote
 5. 25 React Projects [Link](https://www.youtube.com/watch?v=5ZdHfJVAY-s)
 6. Research Papers [Link](https://sci-hub.ru/)
 7. Tutorials [Link](https://rutracker.org/forum/viewforum.php?f=1565&start=2400)
+8. TypeScript RegEx [Link](https://www.slingacademy.com/article/mastering-regular-expressions-in-typescript/)
 
 ## Web
 1. Code with Beto [Link](https://beto.vercel.app/)
